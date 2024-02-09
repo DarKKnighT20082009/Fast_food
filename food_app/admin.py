@@ -6,3 +6,4 @@ from food_app.models import Product, ProductCategory
 
 admin.site.register(Product)
 admin.site.register(ProductCategory)
+
